@@ -1,4 +1,5 @@
 // import necessary react testing library helpers here
+import React from 'react';
 // import the Counter component here
 
 beforeEach(() => {
